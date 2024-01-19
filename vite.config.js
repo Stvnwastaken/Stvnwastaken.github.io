@@ -6,4 +6,5 @@ export default defineConfig({
       userPolling: true,
     },
   },
+  base: "./",
 });
