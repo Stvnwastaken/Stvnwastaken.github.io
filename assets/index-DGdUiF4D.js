@@ -9,4 +9,4 @@
       Click on the cool button to see my github
     </p>
   </div>
-`;setupCounter(document.querySelector("#counter"));
+`;
